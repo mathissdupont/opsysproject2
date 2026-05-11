@@ -1,0 +1,5 @@
+it_support
+ai_researchers
+*.o
+*.out
+*.log
