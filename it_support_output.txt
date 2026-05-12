@@ -1,0 +1,66 @@
+========================================
+   IT SUPPORT SYNCHRONIZATION SYSTEM
+========================================
+Configuration:
+  Specialists: 2
+  Queue Size: 5
+  Total Tickets: 15
+
+[MAIN] Creating 2 specialist threads...
+[MAIN] Specialists created and waiting for tickets.
+
+[MAIN] Creating 15 customer threads...
+[TICKET 0] ACCEPTED and queued (Queue size: 1/5)
+[SPECIALIST 0] WOKE UP and dequeued ticket 0 (Queue size: 0)
+[SPECIALIST 0] PROCESSING ticket 0...
+[TICKET 1] ACCEPTED and queued (Queue size: 1/5)
+[SPECIALIST 1] WOKE UP and dequeued ticket 1 (Queue size: 0)
+[SPECIALIST 1] PROCESSING ticket 1...
+[TICKET 2] ACCEPTED and queued (Queue size: 1/5)
+[TICKET 3] ACCEPTED and queued (Queue size: 2/5)
+[TICKET 4] ACCEPTED and queued (Queue size: 3/5)
+[TICKET 5] ACCEPTED and queued (Queue size: 4/5)
+[TICKET 6] ACCEPTED and queued (Queue size: 5/5)
+[TICKET 7] DROPPED - Queue is FULL!
+[TICKET 8] DROPPED - Queue is FULL!
+[TICKET 9] DROPPED - Queue is FULL!
+[TICKET 10] DROPPED - Queue is FULL!
+[TICKET 11] DROPPED - Queue is FULL!
+[TICKET 12] DROPPED - Queue is FULL!
+[TICKET 13] DROPPED - Queue is FULL!
+[TICKET 14] DROPPED - Queue is FULL!
+[MAIN] All customer threads created.
+
+
+========================================
+[MAIN] All tickets have been submitted.
+[MAIN] Waiting for 7 accepted tickets to complete...
+========================================
+
+[SPECIALIST 0] COMPLETED ticket 0
+[SPECIALIST 0] WOKE UP and dequeued ticket 2 (Queue size: 4)
+[SPECIALIST 0] PROCESSING ticket 2...
+[SPECIALIST 1] COMPLETED ticket 1
+[SPECIALIST 1] WOKE UP and dequeued ticket 3 (Queue size: 3)
+[SPECIALIST 1] PROCESSING ticket 3...
+[SPECIALIST 0] COMPLETED ticket 2
+[SPECIALIST 0] WOKE UP and dequeued ticket 4 (Queue size: 2)
+[SPECIALIST 0] PROCESSING ticket 4...
+[SPECIALIST 1] COMPLETED ticket 3
+[SPECIALIST 1] WOKE UP and dequeued ticket 5 (Queue size: 1)
+[SPECIALIST 1] PROCESSING ticket 5...
+[SPECIALIST 0] COMPLETED ticket 4
+[SPECIALIST 0] WOKE UP and dequeued ticket 6 (Queue size: 0)
+[SPECIALIST 0] PROCESSING ticket 6...
+[SPECIALIST 1] COMPLETED ticket 5
+[SPECIALIST 0] COMPLETED ticket 6
+[SPECIALIST 1] Exiting.
+[SPECIALIST 0] Exiting.
+
+========================================
+   IT SUPPORT SYSTEM COMPLETED
+========================================
+Total tickets created: 15
+Accepted tickets: 7
+Dropped tickets: 8
+Completed tickets: 7
