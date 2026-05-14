@@ -108,46 +108,46 @@
 [Researcher 3] Analyzing data.
 [Researcher 2] Reserved GPUs 2 and 3.
 [Researcher 2] Training models using reserved GPUs.
-[Researcher 2] Training finished.
-[Researcher 2] Analyzing data.
 [Researcher 5] Training finished.
 [Researcher 5] Analyzing data.
+[Researcher 4] Reserved GPUs 4 and 5.
+[Researcher 4] Training models using reserved GPUs.
+[Researcher 2] Training finished.
+[Researcher 2] Analyzing data.
 [Researcher 1] Reserved GPUs 1 and 2.
 [Researcher 1] Training models using reserved GPUs.
-[Researcher 3] Reserved GPUs 3 and 4.
-[Researcher 3] Training models using reserved GPUs.
 [Researcher 1] Training finished.
 [Researcher 1] Analyzing data.
-[Researcher 3] Training finished.
-[Researcher 3] Analyzing data.
-[Researcher 5] Reserved GPUs 5 and 1.
-[Researcher 5] Training models using reserved GPUs.
 [Researcher 2] Reserved GPUs 2 and 3.
 [Researcher 2] Training models using reserved GPUs.
+[Researcher 4] Training finished.
+[Researcher 4] Analyzing data.
+[Researcher 5] Reserved GPUs 5 and 1.
+[Researcher 5] Training models using reserved GPUs.
 [Researcher 2] Training finished.
 [Researcher 2] Analyzing data.
+[Researcher 3] Reserved GPUs 3 and 4.
+[Researcher 3] Training models using reserved GPUs.
 [Researcher 5] Training finished.
 [Researcher 5] Analyzing data.
 [Researcher 1] Reserved GPUs 1 and 2.
 [Researcher 1] Training models using reserved GPUs.
-[Researcher 3] Reserved GPUs 3 and 4.
-[Researcher 3] Training models using reserved GPUs.
-[Researcher 1] Training finished.
-[Researcher 5] Reserved GPUs 5 and 1.
-[Researcher 5] Training models using reserved GPUs.
 [Researcher 3] Training finished.
+[Researcher 3] Analyzing data.
+[Researcher 4] Reserved GPUs 4 and 5.
+[Researcher 4] Training models using reserved GPUs.
+[Researcher 1] Training finished.
 [Researcher 2] Reserved GPUs 2 and 3.
 [Researcher 2] Training models using reserved GPUs.
+[Researcher 4] Training finished.
+[Researcher 4] Analyzing data.
 [Researcher 2] Training finished.
+[Researcher 5] Reserved GPUs 5 and 1.
+[Researcher 5] Training models using reserved GPUs.
+[Researcher 3] Reserved GPUs 3 and 4.
+[Researcher 3] Training models using reserved GPUs.
+[Researcher 3] Training finished.
 [Researcher 5] Training finished.
-[Researcher 4] Reserved GPUs 4 and 5.
-[Researcher 4] Training models using reserved GPUs.
-[Researcher 4] Training finished.
-[Researcher 4] Analyzing data.
-[Researcher 4] Reserved GPUs 4 and 5.
-[Researcher 4] Training models using reserved GPUs.
-[Researcher 4] Training finished.
-[Researcher 4] Analyzing data.
 [Researcher 4] Reserved GPUs 4 and 5.
 [Researcher 4] Training models using reserved GPUs.
 [Researcher 4] Training finished.
