@@ -1,0 +1,23 @@
+test_script.sh: line 2: $'\r': command not found
+test_script.sh: line 3: set: -
+: invalid option
+set: usage: set [-abefhkmnptuvxBCEHPT] [-o option-name] [--] [-] [arg ...]
+test_script.sh: line 4: $'\r': command not found
+Compiling projects...
+gcc: error: unrecognized command-line option ‘-pthread
+’; did you mean ‘-pthread’?
+gcc: error: unrecognized command-line option ‘-pthread
+’; did you mean ‘-pthread’?
+test_script.sh: line 8: $'\r': command not found
+
+--- Running Problem 1: Sleeping IT Support ---
+test_script.sh: line 10: ./it_support
+: No such file or directory
+test_script.sh: line 11: $'\r': command not found
+
+--- Running Problem 2: AI Researchers and GPUs ---
+test_script.sh: line 13: ./ai_researchers
+: No such file or directory
+test_script.sh: line 14: $'\r': command not found
+
+All tests completed!
