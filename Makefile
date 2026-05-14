@@ -1,6 +1,6 @@
 CC ?= gcc
 CFLAGS ?= -Wall -Wextra -pedantic -std=c11
-LDLIBS ?= -lpthread
+LDLIBS ?= -pthread
 
 all: it_support ai_researchers
 
