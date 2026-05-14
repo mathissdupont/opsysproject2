@@ -1,0 +1,278 @@
+=== Scenario 1: Maximum n-1 Researchers ===
+[Researcher 1] Analyzing data.
+[Researcher 2] Analyzing data.
+[Researcher 3] Analyzing data.
+[Researcher 4] Analyzing data.
+[Researcher 5] Analyzing data.
+[Researcher 1] Entered limited room.
+[Researcher 1] Acquired GPUs 1 and 2.
+[Researcher 1] Training models using two locked GPUs.
+[Researcher 2] Entered limited room.
+[Researcher 3] Entered limited room.
+[Researcher 3] Acquired GPUs 3 and 4.
+[Researcher 3] Training models using two locked GPUs.
+[Researcher 4] Entered limited room.
+[Researcher 1] Training finished.
+[Researcher 1] Left limited room.
+[Researcher 1] Analyzing data.
+[Researcher 5] Entered limited room.
+[Researcher 5] Acquired GPUs 5 and 1.
+[Researcher 5] Training models using two locked GPUs.
+[Researcher 3] Training finished.
+[Researcher 3] Left limited room.
+[Researcher 3] Analyzing data.
+[Researcher 2] Acquired GPUs 2 and 3.
+[Researcher 2] Training models using two locked GPUs.
+[Researcher 1] Entered limited room.
+[Researcher 5] Training finished.
+[Researcher 5] Left limited room.
+[Researcher 5] Analyzing data.
+[Researcher 4] Acquired GPUs 4 and 5.
+[Researcher 4] Training models using two locked GPUs.
+[Researcher 3] Entered limited room.
+[Researcher 2] Training finished.
+[Researcher 2] Left limited room.
+[Researcher 2] Analyzing data.
+[Researcher 1] Acquired GPUs 1 and 2.
+[Researcher 1] Training models using two locked GPUs.
+[Researcher 2] Entered limited room.
+[Researcher 1] Training finished.
+[Researcher 1] Left limited room.
+[Researcher 1] Analyzing data.
+[Researcher 5] Entered limited room.
+[Researcher 4] Training finished.
+[Researcher 4] Left limited room.
+[Researcher 4] Analyzing data.
+[Researcher 5] Acquired GPUs 5 and 1.
+[Researcher 5] Training models using two locked GPUs.
+[Researcher 3] Acquired GPUs 3 and 4.
+[Researcher 3] Training models using two locked GPUs.
+[Researcher 1] Entered limited room.
+[Researcher 3] Training finished.
+[Researcher 3] Left limited room.
+[Researcher 3] Analyzing data.
+[Researcher 2] Acquired GPUs 2 and 3.
+[Researcher 2] Training models using two locked GPUs.
+[Researcher 4] Entered limited room.
+[Researcher 5] Training finished.
+[Researcher 5] Left limited room.
+[Researcher 5] Analyzing data.
+[Researcher 4] Acquired GPUs 4 and 5.
+[Researcher 4] Training models using two locked GPUs.
+[Researcher 3] Entered limited room.
+[Researcher 2] Training finished.
+[Researcher 2] Left limited room.
+[Researcher 2] Analyzing data.
+[Researcher 1] Acquired GPUs 1 and 2.
+[Researcher 1] Training models using two locked GPUs.
+[Researcher 5] Entered limited room.
+[Researcher 4] Training finished.
+[Researcher 4] Left limited room.
+[Researcher 4] Analyzing data.
+[Researcher 3] Acquired GPUs 3 and 4.
+[Researcher 3] Training models using two locked GPUs.
+[Researcher 2] Entered limited room.
+[Researcher 1] Training finished.
+[Researcher 1] Left limited room.
+[Researcher 5] Acquired GPUs 5 and 1.
+[Researcher 5] Training models using two locked GPUs.
+[Researcher 4] Entered limited room.
+[Researcher 3] Training finished.
+[Researcher 3] Left limited room.
+[Researcher 2] Acquired GPUs 2 and 3.
+[Researcher 2] Training models using two locked GPUs.
+[Researcher 5] Training finished.
+[Researcher 5] Left limited room.
+[Researcher 4] Acquired GPUs 4 and 5.
+[Researcher 4] Training models using two locked GPUs.
+[Researcher 2] Training finished.
+[Researcher 2] Left limited room.
+[Researcher 4] Training finished.
+[Researcher 4] Left limited room.
+
+=== Scenario 2: GPU Availability Check ===
+[Researcher 1] Analyzing data.
+[Researcher 2] Analyzing data.
+[Researcher 3] Analyzing data.
+[Researcher 4] Analyzing data.
+[Researcher 5] Analyzing data.
+[Researcher 1] Reserved GPUs 1 and 2.
+[Researcher 1] Training models using reserved GPUs.
+[Researcher 3] Reserved GPUs 3 and 4.
+[Researcher 3] Training models using reserved GPUs.
+[Researcher 1] Training finished.
+[Researcher 1] Analyzing data.
+[Researcher 5] Reserved GPUs 5 and 1.
+[Researcher 5] Training models using reserved GPUs.
+[Researcher 3] Training finished.
+[Researcher 3] Analyzing data.
+[Researcher 2] Reserved GPUs 2 and 3.
+[Researcher 2] Training models using reserved GPUs.
+[Researcher 2] Training finished.
+[Researcher 2] Analyzing data.
+[Researcher 5] Training finished.
+[Researcher 5] Analyzing data.
+[Researcher 1] Reserved GPUs 1 and 2.
+[Researcher 1] Training models using reserved GPUs.
+[Researcher 3] Reserved GPUs 3 and 4.
+[Researcher 3] Training models using reserved GPUs.
+[Researcher 1] Training finished.
+[Researcher 1] Analyzing data.
+[Researcher 3] Training finished.
+[Researcher 3] Analyzing data.
+[Researcher 5] Reserved GPUs 5 and 1.
+[Researcher 5] Training models using reserved GPUs.
+[Researcher 2] Reserved GPUs 2 and 3.
+[Researcher 2] Training models using reserved GPUs.
+[Researcher 2] Training finished.
+[Researcher 2] Analyzing data.
+[Researcher 5] Training finished.
+[Researcher 5] Analyzing data.
+[Researcher 1] Reserved GPUs 1 and 2.
+[Researcher 1] Training models using reserved GPUs.
+[Researcher 3] Reserved GPUs 3 and 4.
+[Researcher 3] Training models using reserved GPUs.
+[Researcher 1] Training finished.
+[Researcher 5] Reserved GPUs 5 and 1.
+[Researcher 5] Training models using reserved GPUs.
+[Researcher 3] Training finished.
+[Researcher 2] Reserved GPUs 2 and 3.
+[Researcher 2] Training models using reserved GPUs.
+[Researcher 2] Training finished.
+[Researcher 5] Training finished.
+[Researcher 4] Reserved GPUs 4 and 5.
+[Researcher 4] Training models using reserved GPUs.
+[Researcher 4] Training finished.
+[Researcher 4] Analyzing data.
+[Researcher 4] Reserved GPUs 4 and 5.
+[Researcher 4] Training models using reserved GPUs.
+[Researcher 4] Training finished.
+[Researcher 4] Analyzing data.
+[Researcher 4] Reserved GPUs 4 and 5.
+[Researcher 4] Training models using reserved GPUs.
+[Researcher 4] Training finished.
+
+=== Scenario 3: Asymmetric Resource Acquisition ===
+[Researcher 1] Analyzing data.
+[Researcher 2] Analyzing data.
+[Researcher 3] Analyzing data.
+[Researcher 4] Analyzing data.
+[Researcher 5] Analyzing data.
+[Researcher 1] Acquired GPUs 2 then 1.
+[Researcher 1] Training models using asymmetric order.
+[Researcher 3] Acquired GPUs 4 then 3.
+[Researcher 3] Training models using asymmetric order.
+[Researcher 1] Training finished.
+[Researcher 1] Analyzing data.
+[Researcher 5] Acquired GPUs 1 then 5.
+[Researcher 5] Training models using asymmetric order.
+[Researcher 3] Training finished.
+[Researcher 3] Analyzing data.
+[Researcher 2] Acquired GPUs 2 then 3.
+[Researcher 2] Training models using asymmetric order.
+[Researcher 5] Training finished.
+[Researcher 5] Analyzing data.
+[Researcher 4] Acquired GPUs 4 then 5.
+[Researcher 4] Training models using asymmetric order.
+[Researcher 2] Training finished.
+[Researcher 2] Analyzing data.
+[Researcher 1] Acquired GPUs 2 then 1.
+[Researcher 1] Training models using asymmetric order.
+[Researcher 1] Training finished.
+[Researcher 1] Analyzing data.
+[Researcher 2] Acquired GPUs 2 then 3.
+[Researcher 2] Training models using asymmetric order.
+[Researcher 4] Training finished.
+[Researcher 4] Analyzing data.
+[Researcher 5] Acquired GPUs 1 then 5.
+[Researcher 5] Training models using asymmetric order.
+[Researcher 2] Training finished.
+[Researcher 2] Analyzing data.
+[Researcher 3] Acquired GPUs 4 then 3.
+[Researcher 3] Training models using asymmetric order.
+[Researcher 5] Training finished.
+[Researcher 5] Analyzing data.
+[Researcher 1] Acquired GPUs 2 then 1.
+[Researcher 1] Training models using asymmetric order.
+[Researcher 3] Training finished.
+[Researcher 3] Analyzing data.
+[Researcher 4] Acquired GPUs 4 then 5.
+[Researcher 4] Training models using asymmetric order.
+[Researcher 1] Training finished.
+[Researcher 2] Acquired GPUs 2 then 3.
+[Researcher 2] Training models using asymmetric order.
+[Researcher 4] Training finished.
+[Researcher 4] Analyzing data.
+[Researcher 5] Acquired GPUs 1 then 5.
+[Researcher 5] Training models using asymmetric order.
+[Researcher 2] Training finished.
+[Researcher 3] Acquired GPUs 4 then 3.
+[Researcher 3] Training models using asymmetric order.
+[Researcher 3] Training finished.
+[Researcher 5] Training finished.
+[Researcher 4] Acquired GPUs 4 then 5.
+[Researcher 4] Training models using asymmetric order.
+[Researcher 4] Training finished.
+
+=== Scenario 4: Right-GPU Preference ===
+[Researcher 1] Analyzing data.
+[Researcher 2] Analyzing data.
+[Researcher 3] Analyzing data.
+[Researcher 4] Analyzing data.
+[Researcher 5] Analyzing data.
+[Researcher 1] Acquired GPUs 1 and 2 with preference.
+[Researcher 1] Training models using preferred-order mutexes.
+[Researcher 3] Acquired GPUs 4 and 3 with preference.
+[Researcher 3] Training models using preferred-order mutexes.
+[Researcher 1] Training finished.
+[Researcher 1] Analyzing data.
+[Researcher 5] Acquired GPUs 5 and 1 with preference.
+[Researcher 5] Training models using preferred-order mutexes.
+[Researcher 3] Training finished.
+[Researcher 3] Analyzing data.
+[Researcher 2] Acquired GPUs 2 and 3 with preference.
+[Researcher 2] Training models using preferred-order mutexes.
+[Researcher 5] Training finished.
+[Researcher 5] Analyzing data.
+[Researcher 2] Training finished.
+[Researcher 2] Analyzing data.
+[Researcher 3] Acquired GPUs 4 and 3 with preference.
+[Researcher 3] Training models using preferred-order mutexes.
+[Researcher 1] Acquired GPUs 1 and 2 with preference.
+[Researcher 1] Training models using preferred-order mutexes.
+[Researcher 3] Training finished.
+[Researcher 3] Analyzing data.
+[Researcher 4] Acquired GPUs 4 and 5 with preference.
+[Researcher 4] Training models using preferred-order mutexes.
+[Researcher 1] Training finished.
+[Researcher 1] Analyzing data.
+[Researcher 2] Acquired GPUs 2 and 3 with preference.
+[Researcher 2] Training models using preferred-order mutexes.
+[Researcher 2] Training finished.
+[Researcher 2] Analyzing data.
+[Researcher 4] Training finished.
+[Researcher 4] Analyzing data.
+[Researcher 3] Acquired GPUs 4 and 3 with preference.
+[Researcher 3] Training models using preferred-order mutexes.
+[Researcher 5] Acquired GPUs 5 and 1 with preference.
+[Researcher 5] Training models using preferred-order mutexes.
+[Researcher 3] Training finished.
+[Researcher 2] Acquired GPUs 2 and 3 with preference.
+[Researcher 2] Training models using preferred-order mutexes.
+[Researcher 5] Training finished.
+[Researcher 5] Analyzing data.
+[Researcher 4] Acquired GPUs 4 and 5 with preference.
+[Researcher 4] Training models using preferred-order mutexes.
+[Researcher 2] Training finished.
+[Researcher 1] Acquired GPUs 1 and 2 with preference.
+[Researcher 1] Training models using preferred-order mutexes.
+[Researcher 4] Training finished.
+[Researcher 4] Analyzing data.
+[Researcher 1] Training finished.
+[Researcher 5] Acquired GPUs 5 and 1 with preference.
+[Researcher 5] Training models using preferred-order mutexes.
+[Researcher 5] Training finished.
+[Researcher 4] Acquired GPUs 4 and 5 with preference.
+[Researcher 4] Training models using preferred-order mutexes.
+[Researcher 4] Training finished.
+

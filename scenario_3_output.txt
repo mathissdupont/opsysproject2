@@ -1,0 +1,61 @@
+=== Scenario 3: Asymmetric Resource Acquisition ===
+[Researcher 1] Analyzing data.
+[Researcher 2] Analyzing data.
+[Researcher 3] Analyzing data.
+[Researcher 4] Analyzing data.
+[Researcher 5] Analyzing data.
+[Researcher 1] Acquired GPUs 2 then 1.
+[Researcher 1] Training models using asymmetric order.
+[Researcher 3] Acquired GPUs 4 then 3.
+[Researcher 3] Training models using asymmetric order.
+[Researcher 1] Training finished.
+[Researcher 1] Analyzing data.
+[Researcher 5] Acquired GPUs 1 then 5.
+[Researcher 5] Training models using asymmetric order.
+[Researcher 3] Training finished.
+[Researcher 3] Analyzing data.
+[Researcher 2] Acquired GPUs 2 then 3.
+[Researcher 2] Training models using asymmetric order.
+[Researcher 5] Training finished.
+[Researcher 5] Analyzing data.
+[Researcher 4] Acquired GPUs 4 then 5.
+[Researcher 4] Training models using asymmetric order.
+[Researcher 2] Training finished.
+[Researcher 2] Analyzing data.
+[Researcher 1] Acquired GPUs 2 then 1.
+[Researcher 1] Training models using asymmetric order.
+[Researcher 1] Training finished.
+[Researcher 1] Analyzing data.
+[Researcher 2] Acquired GPUs 2 then 3.
+[Researcher 2] Training models using asymmetric order.
+[Researcher 4] Training finished.
+[Researcher 4] Analyzing data.
+[Researcher 5] Acquired GPUs 1 then 5.
+[Researcher 5] Training models using asymmetric order.
+[Researcher 2] Training finished.
+[Researcher 2] Analyzing data.
+[Researcher 3] Acquired GPUs 4 then 3.
+[Researcher 3] Training models using asymmetric order.
+[Researcher 5] Training finished.
+[Researcher 5] Analyzing data.
+[Researcher 1] Acquired GPUs 2 then 1.
+[Researcher 1] Training models using asymmetric order.
+[Researcher 3] Training finished.
+[Researcher 3] Analyzing data.
+[Researcher 4] Acquired GPUs 4 then 5.
+[Researcher 4] Training models using asymmetric order.
+[Researcher 1] Training finished.
+[Researcher 2] Acquired GPUs 2 then 3.
+[Researcher 2] Training models using asymmetric order.
+[Researcher 4] Training finished.
+[Researcher 4] Analyzing data.
+[Researcher 5] Acquired GPUs 1 then 5.
+[Researcher 5] Training models using asymmetric order.
+[Researcher 2] Training finished.
+[Researcher 3] Acquired GPUs 4 then 3.
+[Researcher 3] Training models using asymmetric order.
+[Researcher 3] Training finished.
+[Researcher 5] Training finished.
+[Researcher 4] Acquired GPUs 4 then 5.
+[Researcher 4] Training models using asymmetric order.
+[Researcher 4] Training finished.
